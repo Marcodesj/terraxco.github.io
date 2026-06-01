@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" fill="#20252B" rx="4"/>
+  <!-- T bar (top horizontal) -->
+  <rect x="4" y="4" width="24" height="6" fill="#FFFFFF"/>
+  <!-- T stem (vertical) -->
+  <rect x="4" y="10" width="10" height="12" fill="#FFFFFF"/>
+  <!-- Orange triangle wedge -->
+  <polygon points="4,22 28,22 28,32 4,32" fill="#F47A20"/>
+  <!-- White T stem continues over orange -->
+  <rect x="4" y="22" width="10" height="10" fill="#F47A20"/>
+  <polygon points="4,22 28,22 28,32" fill="#F47A20"/>
+  <!-- Redraw stem on top -->
+  <rect x="4" y="10" width="10" height="22" fill="#FFFFFF"/>
+  <!-- Triangle cut -->
+  <polygon points="14,22 28,22 28,32 14,32" fill="#F47A20"/>
+</svg>
